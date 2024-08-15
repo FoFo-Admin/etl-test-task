@@ -1,0 +1,2 @@
+SELECT DISTINCT domain
+FROM users;
